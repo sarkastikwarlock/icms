@@ -1,0 +1,77 @@
+{
+	"icms":[
+   		{
+			"caseNo":"SC-903916-2023",
+			"accusedName":"John Doe",
+			"offence":"Littering",
+			"chargeNo":"MCN-901250-2023",
+			"courtNo":"Court 4A",
+			"importedDt":"12/08/2023"
+		},
+		{
+			"caseNo":"SC-905145-2023",
+			"accusedName":"Max Baxter",
+			"offence":"Kidnapping",
+			"chargeNo":"MCN-929350-2022",
+			"courtNo":"Court 11B",
+			"importedDt":"15/01/2022"
+		},
+		{
+			"caseNo":"SC-909345-2023",
+			"accusedName":"Ma Wing Chun",
+			"offence":"Assault",
+			"chargeNo":"MCN-909350-2023",
+			"courtNo":"Court 5B",
+			"importedDt":"18/01/2023"
+		},{
+			"caseNo":"SC-954145-2023",
+			"accusedName":"Rais Ruff",
+			"offence":"Riotting",
+			"chargeNo":"MCN-929950-2023",
+			"courtNo":"Court 4A",
+			"importedDt":"31/12/2023"
+		},{
+			"caseNo":"SC-905902-2023",
+			"accusedName":"Kim Tae Soon",
+			"offence":"Shop Lifting",
+			"chargeNo":"MCN-934350-2022",
+			"courtNo":"Court 11C",
+			"importedDt":"21/01/2023"
+		},{
+			"caseNo":"SC-815145-2023",
+			"accusedName":"Pat T.Hardt",
+			"offence":"Drugs Possession",
+			"chargeNo":"MCN-927650-2022",
+			"courtNo":"Court 11B",
+			"importedDt":"31/12/2023"
+		},{
+			"caseNo":"SC-939765-2023",
+			"accusedName":"Don Mario",
+			"offence":"Assault",
+			"chargeNo":"MCN-920360-2022",
+			"courtNo":"Court 9B",
+			"importedDt":"29/04/2022"
+		},{
+			"caseNo":"SC-909445-2023",
+			"accusedName":"Billy Tan",
+			"offence":"Shop Lifting",
+			"chargeNo":"MCN-921350-2022",
+			"courtNo":"Court 1A",
+			"importedDt":"15/01/2023"
+		},{
+			"caseNo":"SC-900945-2023",
+			"accusedName":"Mavin Mah",
+			"offence":"Littering",
+			"chargeNo":"MCN-929040-2022",
+			"courtNo":"Court 12B",
+			"importedDt":"23/11/2023"
+		},{
+			"caseNo":"SC-993745-2023",
+			"accusedName":"Eric Masterson",
+			"offence":"Jaywalking",
+			"chargeNo":"MCN-929090-2022",
+			"courtNo":"Court 7B",
+			"importedDt":"13/11/2023"
+		}
+	]
+}
